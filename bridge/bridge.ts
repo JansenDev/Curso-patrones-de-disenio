@@ -1,0 +1,1 @@
+//  Similar que state y strategi solo que las strategis son implementadores de la clase abstracta
